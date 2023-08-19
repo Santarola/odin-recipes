@@ -5,12 +5,33 @@ body {
 .odin {
     color: darkgoldenrod;
     text-align: center;
+    padding-left: 30px;
     font-family: Georgia, 'Times New Roman', Times, sans-serif;
 }
 
 .recipes {
     text-align: center;
-    color: white;
+    color: aliceblue;
     background-color: burlywood;
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: 135px;
+    margin-right: 135px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+
+}
+
+.dumplings {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.lasagna {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.sandwitches {
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
